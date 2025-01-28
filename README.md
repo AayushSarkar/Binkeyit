@@ -1,3 +1,4 @@
 # Binkeyit
 
-!["Binkeyit Demo"](.\Demo 1.gif)
+![Binkeyit Demo](Demo%201.gif)
+
